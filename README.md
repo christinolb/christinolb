@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christinolb
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning about Data Science
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on any Data Science projects
 - 📫 How to reach me christinobarbosa09@gmail.com
 
