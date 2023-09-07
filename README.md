@@ -10,13 +10,7 @@
 
 - 👯 I’m looking to collaborate on **my next project (early planning stage)**
 
-- 👨‍💻 All of my projects are available at [(in progress)]((in progress))
-
-- 📝 I regularly write articles on [(in progress)]((in progress))
-
 - 📫 How to reach me **christinobarbosa09@gmail.com**
-
-- 📄 Know about my experiences [(in progress)]((in progress))
 
 - ⚡ Fun fact **I play all kinds of music on Bass (5 string) and trombone!**
 
