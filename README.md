@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [GSLSAMP Webpage]([https://github.com/christinolb/christinolb.github.io](https://github.com/christinolb/run-gslsamp-site-fork))
 
-- 🌱 I’m currently learning **React, tailwindcss & vite**
+- 🌱 I’m currently learning **typescript, tailwindcss & Next.js**
 
 - 👯 I’m looking to collaborate on **my next project (early planning stage)**
 
