@@ -1,7 +1,7 @@
 <h1 align="center">Hey, my name is Christino Lorenzo Barbosa</h1>
 <h3 align="center">Software Developer</h3>
 
-![image](https://github.com/christinolb/christinolb/assets/49823328/3767d83e-a7b7-41c6-8381-28e9c50c1ab9)
+![image](https://github.com/christinolb/christinolb/blob/main/funny-spiderman.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christinolb&label=Profile%20views&color=0e75b6&style=flat" alt="christinolb" /> </p>
 
