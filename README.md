@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christinolb" alt="christinolb" /></a> </p>
 
-- 🔭 I’m currently working on [Web Portfolio](https://github.com/christinolb/christinolb.github.io)
+- 🔭 I’m currently working on [GSLSAMP Webpage]([https://github.com/christinolb/christinolb.github.io](https://github.com/christinolb/run-gslsamp-site-fork))
 
 - 🌱 I’m currently learning **React, tailwindcss & vite**
 
