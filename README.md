@@ -1,7 +1,7 @@
 <h1 align="center">Hey, my name is Christino Lorenzo Barbosa</h1>
 <h3 align="center">Software Developer</h3>
 
-![image](https://github.com/christinolb/christinolb/blob/main/funny-spiderman.gif)
+<p align="center"> <img src="https://github.com/christinolb/christinolb/blob/main/funny-spiderman.gif"/> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christinolb&label=Profile%20views&color=0e75b6&style=flat" alt="christinolb" /> </p>
 
@@ -10,8 +10,6 @@
 - 🔭 I’m currently working on [GSLSAMP Webpage]([https://github.com/christinolb/christinolb.github.io](https://github.com/christinolb/run-gslsamp-site-fork))
 
 - 🌱 I’m currently learning **typescript, tailwindcss & Next.js**
-
-- 👯 I’m looking to collaborate on **my next project (early planning stage)**
 
 - 📫 How to reach me **christinobarbosa09@gmail.com**
 
