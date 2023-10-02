@@ -1,5 +1,5 @@
 <h1 align="center">Hey, my name is Christino Lorenzo Barbosa</h1>
-<h2 align="center">Software Developer</h3>
+<h2 align="center">Web Developer</h3>
 
 <p align="center"> <img height=400px" width="700px" src="https://github.com/christinolb/christinolb/blob/main/funny-spiderman.gif"/> </p>
 
